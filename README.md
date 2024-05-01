@@ -6,19 +6,19 @@ The inquiry from EEK requested a logo that conveys a sense of importance, while 
 <h2 style="font-size: 18px">THE PROCESS</h2>
 Keeping in mind the client's intended use of the logo, color, target audience, brand name, and business purpose, combined with the mood the client wished to convey, I created these initial images via Adobe Illustrator.
 <br><br>
-<div align="center"><img src="Eek-Logo-Chart.jpg" width="300" height="300"></div>
+<div align="center"><img src="EEK-Logo-Chart.jpg" width="300" height="300"></div>
 <br>
 I then combined the brackets with the graduation cap and separately with the book, incorporated the company name, created two color variations and two monochromatic variations, and then generated photo mockups of the concepts in action via PlaceIt.
 <h2 style="font-size: 18px">FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)</h2>
 <br>
 <div align="center">
-    <img src="Eek-Logo-Mockup-1.jpg" width="200" height="200">
+    <img src="EEK-Logo-Mockup-1.jpg" width="200" height="200">
     &nbsp;
-    <img src="Eek-Logo-Mockup-2.jpg" width="200" height="200">
+    <img src="EEK-Logo-Mockup-2.jpg" width="200" height="200">
     &nbsp;
-    <img src="Eek-Logo-Mockup-3.jpg" width="200" height="200">
+    <img src="EEK-Logo-Mockup-3.jpg" width="200" height="200">
     &nbsp;
-    <img src="Eek-Logo-Mockup-4.jpg" width="200" height="200">
+    <img src="EEK-Logo-Mockup-4.jpg" width="200" height="200">
 </div>
 <br>
 <div align="center"><img src="EEK-Photo-Mockup-1.png"></div>
@@ -30,13 +30,13 @@ I then combined the brackets with the graduation cap and separately with the b
 <h2 style="font-size: 18px">FINALIZED LOGO CONCEPT #2 (4 VARIATIONS)</h2>
 <br>
 <div align="center">
-    <img src="Eek-Logo-Mockup-5.jpg" width="200" height="200">
+    <img src="EEK-Logo-Mockup-5.jpg" width="200" height="200">
     &nbsp;
-    <img src="Eek-Logo-Mockup-6.jpg" width="200" height="200">
+    <img src="EEK-Logo-Mockup-6.jpg" width="200" height="200">
     &nbsp;
-    <img src="Eek-Logo-Mockup-7.jpg" width="200" height="200">
+    <img src="EEK-Logo-Mockup-7.jpg" width="200" height="200">
     &nbsp;
-    <img src="Eek-Logo-Mockup-8.jpg" width="200" height="200">
+    <img src="EEK-Logo-Mockup-8.jpg" width="200" height="200">
 </div>
 <br>
 <div align="center"><img src="EEK-Photo-Mockup-4.png"></div>
