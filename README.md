@@ -19,11 +19,11 @@ I then combined the brackets with the graduation cap and separately with the b
     &nbsp;
     <img src="Eek-Logo-Mockup-4.jpg" width="200" height="200">
 </div>
-<div align="center"><img src="Eek-Photo-Mockup-1.png"></div>
+<div align="center"><img src="EEK-Photo-Mockup-1.png"></div>
 <br>
-<div align="center"><img src="Eek-Photo-Mockup-2.png"></div>
+<div align="center"><img src="EEK-Photo-Mockup-2.png"></div>
 <br>
-<div align="center"><img src="Eek-Photo-Mockup-3.png"></div>
+<div align="center"><img src="EEK-Photo-Mockup-3.png"></div>
 <h2 style="font-size: 18px">FINALIZED LOGO CONCEPT #2 (4 VARIATIONS)</h2>
 <div align="center">
     <img src="Eek-Logo-Mockup-5.jpg" width="200" height="200">
@@ -34,8 +34,8 @@ I then combined the brackets with the graduation cap and separately with the b
     &nbsp;
     <img src="Eek-Logo-Mockup-8.jpg" width="200" height="200">
 </div>
-<div align="center"><img src="Eek-Photo-Mockup-4.png"></div>
+<div align="center"><img src="EEK-Photo-Mockup-4.png"></div>
 <br>
-<div align="center"><img src="Eek-Photo-Mockup-5.png"></div>
+<div align="center"><img src="EEK-Photo-Mockup-5.png"></div>
 <br>
-<div align="center"><img src="Eek-Photo-Mockup-6.png"></div>
+<div align="center"><img src="EEK-Photo-Mockup-6.png"></div>
