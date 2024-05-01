@@ -10,6 +10,7 @@ Keeping in mind the client's intended use of the logo, color, target audience, b
 <br>
 I then combined the brackets with the graduation cap and separately with the book, incorporated the company name, created two color variations and two monochromatic variations, and then generated photo mockups of the concepts in action via PlaceIt.
 <h2 style="font-size: 18px">FINALIZED LOGO CONCEPT #1 (4 VARIATIONS)</h2>
+<br>
 <div align="center">
     <img src="Eek-Logo-Mockup-1.jpg" width="200" height="200">
     &nbsp;
@@ -19,12 +20,15 @@ I then combined the brackets with the graduation cap and separately with the b
     &nbsp;
     <img src="Eek-Logo-Mockup-4.jpg" width="200" height="200">
 </div>
+<br>
 <div align="center"><img src="EEK-Photo-Mockup-1.png"></div>
 <br>
 <div align="center"><img src="EEK-Photo-Mockup-2.png"></div>
 <br>
 <div align="center"><img src="EEK-Photo-Mockup-3.png"></div>
+<br>
 <h2 style="font-size: 18px">FINALIZED LOGO CONCEPT #2 (4 VARIATIONS)</h2>
+<br>
 <div align="center">
     <img src="Eek-Logo-Mockup-5.jpg" width="200" height="200">
     &nbsp;
@@ -34,6 +38,7 @@ I then combined the brackets with the graduation cap and separately with the b
     &nbsp;
     <img src="Eek-Logo-Mockup-8.jpg" width="200" height="200">
 </div>
+<br>
 <div align="center"><img src="EEK-Photo-Mockup-4.png"></div>
 <br>
 <div align="center"><img src="EEK-Photo-Mockup-5.png"></div>
